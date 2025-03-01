@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "hmtl-css",
+			"path": ".."
+		},
+		{
+			"path": "../../../assets"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hmtl-css"
+	}
+}
